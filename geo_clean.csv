@@ -1,0 +1,69 @@
+,geo_city,geo_latitude,geo_longitude,geo_admin1_code,geo_autonomous_community
+0,ibiza - ibiza,38.90883,1.43296,7,baleares
+1,calvia - mallorca,39.5657,2.50621,7,baleares
+2,pontevedra,42.431,-8.64435,58,galicia
+3,gerona,41.98311,2.82493,56,cataluna
+4,toledo,39.8581,-4.02263,54,castilla-la mancha
+5,alicante,38.34517,-0.48149,60,comunidad valenciana
+6,valencia,39.46975,-0.37739,60,comunidad valenciana
+7,coruna,43.37135,-8.396,58,galicia
+8,calahorra,42.30506,-1.96521,27,la rioja
+9,merida,38.91611,-6.34366,57,extremadura
+10,malaga,36.72016,-4.42034,51,andalucia
+11,valladolid,41.65518,-4.72372,55,castilla y leon
+12,cuenca,40.06667,-2.13333,54,castilla-la mancha
+13,burgos,42.34106,-3.70184,55,castilla y leon
+14,murcia,37.98704,-1.13004,31,region de murcia
+15,caceres,39.47649,-6.37224,57,extremadura
+16,torrelavega,43.34943,-4.04785,39,cantabria
+17,parla,40.23604,-3.76752,29,comunidad de madrid
+18,vitoria,42.84998,-2.67268,59,pais vasco
+19,salamanca,40.96882,-5.66388,55,castilla y leon
+20,barcelona,41.38879,2.15899,56,cataluna
+21,castellon,39.98567,-0.04935,60,comunidad valenciana
+22,almeria,36.83814,-2.45974,51,andalucia
+23,tarragona,41.11667,1.25,56,cataluna
+24,albacete,38.99424,-1.85643,54,castilla-la mancha
+25,avila,40.65724,-4.69951,55,castilla y leon
+26,sevilla,37.38283,-5.97317,51,andalucia
+27,cadiz,36.52672,-6.2891,51,andalucia
+28,pamplona,42.81687,-1.64323,32,comunidad foral de navarra
+29,madrid,40.4165,-3.70256,29,comunidad de madrid
+30,santa cruz de tenerife,28.46824,-16.25462,53,islas canarias
+31,arrecife - lanzarote,28.96302,-13.54769,53,islas canarias
+32,tudela,42.06166,-1.60452,32,comunidad foral de navarra
+33,san sebastian,43.31283,-1.97499,59,pais vasco
+34,zamora,41.50633,-5.74456,55,castilla y leon
+35,logrono,42.46667,-2.45,27,la rioja
+36,fuenlabrada,40.28419,-3.79415,29,comunidad de madrid
+37,granada,37.18817,-3.60667,51,andalucia
+38,torrejon de ardoz,40.45535,-3.46973,29,comunidad de madrid
+39,alcorcon,40.34582,-3.82487,29,comunidad de madrid
+40,palma de mallorca - mallorca,39.56939,2.65024,7,baleares
+41,jaen,37.76922,-3.79028,51,andalucia
+42,aviles,43.55473,-5.92483,34,principado de asturias
+43,manacor - mallorca,39.56964,3.20955,7,baleares
+44,huelva,37.26638,-6.94004,51,andalucia
+45,lleida,41.61674,0.62218,56,cataluna
+46,teruel,40.3456,-1.10646,52,aragon
+47,segovia,40.94808,-4.11839,55,castilla y leon
+48,alcobendas,40.54746,-3.64197,29,comunidad de madrid
+49,soria,41.76401,-2.46883,55,castilla y leon
+50,las palmas de gran canaria,28.09973,-15.41343,53,islas canarias
+51,zaragoza,41.65606,-0.87734,52,aragon
+52,oviedo,43.36029,-5.84476,34,principado de asturias
+53,santander,43.46472,-3.80444,39,cantabria
+54,huesca,42.13615,-0.4087,52,aragon
+55,lugo,43.00992,-7.55602,58,galicia
+56,puerto del rosario - fuerteventura,28.50038,-13.86272,53,islas canarias
+57,cordoba,37.89155,-4.77275,51,andalucia
+58,mostoles,40.32234,-3.86496,29,comunidad de madrid
+59,palencia,42.00955,-4.52406,55,castilla y leon
+60,leganes,40.32718,-3.7635,29,comunidad de madrid
+61,getafe,40.30571,-3.73295,29,comunidad de madrid
+62,bilbao,43.26271,-2.92528,59,pais vasco
+63,alcala de henares,40.48205,-3.35996,29,comunidad de madrid
+64,badajoz,38.87789,-6.97061,57,extremadura
+65,gijon,43.53573,-5.66152,34,principado de asturias
+66,ourense,42.33669,-7.86407,58,galicia
+67,leon,42.60003,-5.57032,55,castilla y leon
